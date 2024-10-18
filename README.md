@@ -21,7 +21,7 @@
   
 <div align="center">
   
-## Who Could Benefit from Home Hub
+## Who Can Benefit from Home Hub
 
 </div>
 
