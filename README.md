@@ -9,4 +9,4 @@ HomeHub is a self-hosted Node.js application powered by the Express framework, d
 
 ## Who Could Benefit from HomeHub
 
-While HomeHub is not targeted at a specific audience. It could be especially useful for users and managers of Airbnb units who want to self-host a centralized dashboard for managing their networks. Additionally, it's an excellent starting point for anyone looking to explore self-hosting.
+While HomeHub is not targeted at a specific audience. It could be especially useful for users and managers of Airbnb units who want to self-host a centralized dashboard for managing their units. Additionally, it's an excellent starting point for anyone looking to explore self-hosting.
