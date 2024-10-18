@@ -2,6 +2,12 @@
 
 Home Hub is a self-hosted Node.js application powered by the Express framework, designed to provide a unified and intuitive dashboard for managing household systems and documentation seamlessly.
 
+<div align="center">
+
+  <img src="https://github.com/YourUsername/HomeHub/raw/main/img/gh/BENWRI-SITE-GH.png" alt="Home Hub Image">
+
+</div>
+
 ## Key Features
   - Smart home monitoring and control (Philips Hue, Home Assistant)
   - Household documentation (emergency contacts, kitchen & entertainment appliance usage instructions)
