@@ -4,7 +4,7 @@ Home Hub is a self-hosted Node.js application powered by the Express framework, 
 
 <div align="center">
 
-  <img src="https://github.com/YourUsername/HomeHub/raw/main/img/gh/BENWRI-SITE-GH.png" alt="Home Hub Image">
+  <img src="https://github.com/Mr3entley/HomeHub/raw/main/img/gh/BENWRI-SITE-GH.png" alt="Home Hub Image" style="width: 100px, height: 100px;">
 
 </div>
 
