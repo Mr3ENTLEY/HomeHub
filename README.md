@@ -1,13 +1,14 @@
-<div align="center" style="padding: 0px, margin: 0px;">
+<div align="center" style="padding: 0px; margin: 0px;">
 
 # Home Hub
   
   Home Hub is a self-hosted Node.js application powered by the Express framework, designed to provide a unified and intuitive dashboard for managing household systems and documentation seamlessly.
   
 </div>
+
 <div align="center">
 
-  <img src="https://github.com/Mr3entley/HomeHub/raw/main/img/gh/BENWRI-SITE-GH.png" alt="Home Hub Image" style="width: 100px, height: 100px;">
+  <img src="https://github.com/Mr3entley/HomeHub/raw/main/img/gh/BENWRI-SITE-GH.png" alt="Home Hub Image">
 
 </div>
 
