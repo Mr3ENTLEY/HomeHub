@@ -12,14 +12,17 @@
 <div align="center">
   
 ## Key Features
-  Smart home monitoring and control (Philips Hue, Home Assistant)
-  Household documentation (emergency contacts, kitchen & entertainment appliance usage instructions)
-  Pet care tracking (in progress)
     
 </div>
+  
+  - Smart home monitoring and control (Philips Hue, Home Assistant)
+  - Household documentation (emergency contacts, kitchen & entertainment appliance usage instructions)
+  - Pet care tracking (in progress)
+  
 <div align="center">
   
 ## Who Could Benefit from Home Hub
-  While Home Hub is not targeted at a specific audience. It could be especially useful for users and managers of Airbnb units who want to self-host a centralized dashboard for managing their units. Additionally, it's an excellent starting point for anyone    looking to explore self-hosting.
 
 </div>
+
+  While Home Hub is not targeted at a specific audience. It could be especially useful for users and managers of Airbnb units who want to self-host a centralized dashboard for managing their units. Additionally, it's an excellent starting point for anyone    looking to explore self-hosting.
